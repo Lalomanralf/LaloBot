@@ -40,7 +40,13 @@ Un chino
 No funciona
 Boliviano
 Enano
-
+Precio
+Que haces
+Que comiste
+Lalo
+Japita
+Sex?
+Quien te pregunto
 
 _*Ojito escribe tal y como esta en el mensaje*_
 
