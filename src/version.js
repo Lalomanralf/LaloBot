@@ -1,10 +1,10 @@
 const version = (prefix, pushname) => {
     return `
-*ѕнαηвσт ву ѕнαη∂υу*
+*LaloBot ву ℒ𝒶𝓁ℴ*
 
-*Actualizado:* 18 de Agosto del 2021
+*Actualizado:* 24 de Agosto del 2021
 *Versión actual:* 3.7
-*Ofrecida por:* ѕнαη∂υу™
+*Ofrecida por:* ℒ𝒶𝓁ℴ
 
 
 *INFORME*
@@ -19,7 +19,7 @@ Si vez a alguien que robo mi bot comunicate conmigo con el comando *creador
 
 https://cutt.ly/jmSF2RN
 
-ву ѕнαη∂υу
+ву ℒ𝒶𝓁ℴ
 `
 
 }
