@@ -1,13 +1,11 @@
 const help = (prefix) => {
 	return `
 
-⌜ *ѕнαηвσт ву ѕнαη∂υу* ⌟  
+⌜ *LaloBot ву ℒ𝒶𝓁ℴ* ⌟  
 
 ◉ *INFORMACION*
    ○ Comando: ⌜ ${prefix} ⌟
-   ○ Creador: ѕнαη∂υу™ 
-   ○ Como instalar el bot: https://www.youtube.com/watch?v=2LQSzEbpJ-M
-   ○ Instagram: https://www.instagram.com/thepavos
+   ○ Creador: ℒ𝒶𝓁ℴ 
 
 
 ◉ *NUEVOS COMANDOS*
@@ -95,10 +93,9 @@ Para usar estas funciones el bot necesita admin
 Para activar los NSFW coloque el siguiente comando ${prefix}nsfw 1 y para desactivar los NSFW coloque ${prefix}nsfw 0
 
 
-No te olvides de seguirme en instagram flaco ;)
 
 
-ву ѕнαη∂υу
+ву ℒ𝒶𝓁ℴ
 
 
 ⌜ *ごきげんよう :)* ⌟ 
